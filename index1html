@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <h2>to</h2>
+    <h3>Deebug institute</h3>
+
+    
+    <span>Eugene</span>
+    <small>Joke</small>
+    <a>Peace</a>
+<br>
+    <img src="images/wedding.jpg" alt="wedding image is here" width="800px" height="500px">
+
+</body>
+</html>
+C:\Users\HP\Desktop\FRONT END\images\wedding.jpg
+images\wedding.jpg

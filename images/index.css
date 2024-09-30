@@ -1,0 +1,9 @@
+body{
+color: red;
+font-size: 20px;
+background-color: white;
+}
+
+div{
+    border: 10px solid green;
+}
